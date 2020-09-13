@@ -4,12 +4,12 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amphineko/amphineko.git"
+    "url": "git+https://github.com/amphineko/atomicneko.git"
   },
   "author": "amphineko <sukareki@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amphineko/amphineko/issues"
+    "url": "https://github.com/amphineko/atomicneko/issues"
   },
   "homepage": "https://futa.moe/amphineko/",
   "scripts": {
